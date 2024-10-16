@@ -16,7 +16,7 @@ A simple GUI application to obfuscate and deobfuscate batch files (.bat, .cmd) u
 
 2. Navigate to the project directory:
 
-cd <repo>
+* cd <-repo->
 
 3. Install the required package:
 
