@@ -14,11 +14,11 @@ VSVersionInfo(
     StringFileInfo([
       StringTable(
         u'040904B0', [
-        StringStruct(u'CompanyName', u'Ian Tancinco Ltd'),
+        StringStruct(u'CompanyName', u'Ian ART Ltd'),
         StringStruct(u'FileDescription', u'Obfuscator for .bat & .cmd'),
         StringStruct(u'FileVersion', u'1.0.0.1000'),
         StringStruct(u'InternalName', u'Obfuscator'),
-        StringStruct(u'LegalCopyright', u'Copyright © reserved Ian Tancinco Ltd'),
+        StringStruct(u'LegalCopyright', u'Copyright © reserved Ian ART Ltd'),
         StringStruct(u'OriginalFilename', u'Obfuscator.exe'),
         StringStruct(u'ProductName', u'Obfuscator'),
         StringStruct(u'ProductVersion', u'1.0.0.1000')
