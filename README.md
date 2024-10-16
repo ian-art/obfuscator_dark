@@ -38,10 +38,10 @@ Prepare the build command with your specific paths:
 
 Replace the placeholders with your actual file paths:
 
-%icopath%: Path to your icon file (if you have one).
-%verpath%: Path to your version file (if you have one).
-%datapath%: Path to any additional data files needed.
-%filepath%: Path to your main Python script.
+%icopath%: Path to your icon file (if you have one)
+%verpath%: Path to your version file (if you have one)
+%datapath%: Path to any additional data files needed (choose the icon file)
+%filepath%: Path to your main Python script
 
 Run the following command in your terminal:
 
@@ -49,12 +49,12 @@ pyinstaller.exe --clean --onefile --noconsole --icon="%icopath%" --version-file=
 
 This command does the following:
 
---clean: Cleans the PyInstaller cache before building.
---onefile: Creates a single executable file.
---noconsole: Prevents a console window from opening (useful for GUI applications).
---icon: Specifies an icon for the executable.
---version-file: Adds version information from a file.
---add-data: Includes additional data files with the executable.
+--clean: Cleans the PyInstaller cache before building
+--onefile: Creates a single executable file
+--noconsole: Prevents a console window from opening (useful for GUI applications)
+--icon: Specifies an icon for the executable
+--version-file: Adds version information from a file
+--add-data: Includes additional data files with the executable
 
 Locate the executable: After running the command, you can find the generated executable in the dist folder within your project directory.
 
