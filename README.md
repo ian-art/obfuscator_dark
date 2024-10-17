@@ -4,9 +4,9 @@ A simple GUI application to obfuscate and deobfuscate batch files (.bat, .cmd) u
 
 ## Features
 
-* - **Obfuscate**: Encode batch files to obscure their contents.
-* - **Deobfuscate**: Decode previously obfuscated files back to their original state.
-* - **User-Friendly GUI**: Built with CustomTkinter for an attractive and intuitive interface.
+- **Obfuscate**: Encode batch files to obscure their contents.
+- **Deobfuscate**: Decode previously obfuscated files back to their original state.
+- **User-Friendly GUI**: Built with CustomTkinter for an attractive and intuitive interface.
 
 ## Installation
 
